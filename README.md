@@ -3,6 +3,8 @@
 I am Moguloju Sai, Data Science Engineer.
 # Companies and Count
 ![image alt](https://github.com/Saimoguloju/Electric-Vehicle-Population/blob/master/Companies%20%26%20Count.png)
+# Model Year and Count
+![image alt](https://github.com/Saimoguloju/Electric-Vehicle-Population/blob/master/Model%20Year%20%26%20Count.png)
 
 You can contact me on:
 1. [Linkedin](https://www.linkedin.com/in/moguloju-sai-2b060b228)
